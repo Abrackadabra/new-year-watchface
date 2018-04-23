@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<dimen name="digital_text_size_round">45dp</dimen>-->
+    <!--<dimen name="digital_x_offset">15dp</dimen>-->
+    <!--<dimen name="digital_x_offset_round">25dp</dimen>-->
+    <!--<dimen name="digital_y_offset">70dp</dimen>-->
+
+
+    <dimen name="phase1_offset_line1_x">35dp</dimen>
+    <dimen name="phase1_offset_line1_y">80dp</dimen>
+    <dimen name="phase1_text_size">40dp</dimen>
+
+    <dimen name="offset_x_line1">35dp</dimen>
+    <dimen name="offset_y_line1">80dp</dimen>
+    <dimen name="offset_x_line2">80dp</dimen>
+    <dimen name="offset_y_line2">110dp</dimen>
+    <dimen name="offset_x_line3">50dp</dimen>
+    <dimen name="offset_y_line3">160dp</dimen>
+    <dimen name="offset_x_line4">15dp</dimen>
+    <dimen name="offset_x_line4_2">60dp</dimen>
+    <dimen name="offset_y_line4">160dp</dimen>
+
+    <dimen name="text_size_1">40dp</dimen>
+    <dimen name="text_size_2">60dp</dimen>
+    <dimen name="text_size_3">42dp</dimen>
+</resources>
